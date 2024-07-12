@@ -23,9 +23,22 @@ My name is Mateusz, I'm a Web developer, looking to refine my expertise in every
 
 ### Internal app for A4BEE, responsible for delegations
 
-- I was the lead developer responsible for architecting a full suite of E2E/integration tests, covering major functionalities of the app.
+I was the lead developer responsible for architecting a full suite of E2E/integration tests, covering major functionalities of the app. I was responsible for:
+- RWD compliance for the app
 - Developing new functionality into the existing app, as well as support in case of law changes.
 - Integrating with other internal / external API's to ensure the best UX for users and the accounting team.
+
+### Event system for one of A4BEE's clients
+
+I was one of the developers responsible for implementing a WebSocket event system for one of the apps, with the goal being all events being shared with other instances of said app in other cards, browser windows and even separate browser instances. The project used Web sockets,  [Broadcast API](https://developer.mozilla.org/en-US/docs/Web/API/Broadcast_Channel_API), [Cloud Events](https://cloudevents.io/) and 
+[Shared Workers](https://developer.mozilla.org/en-US/docs/Web/API/SharedWorker) to deliver the results at the highest of qualities.
+
+### OT management UI for one of A4BEE's clients
+
+A complex app composed of multiple microservices and microfrontends, written in Preact, as well as a complex event system. My task consisted of:
+- bugfixing and support
+- modernizing some of the microfrontends to use modern features of Preact like hooks
+- continuing the integration of Redux into the app, simplifying the state management.
 
 ### [XY Uwielbienie](http://xyuwielbienie.pl/) webpage
 
