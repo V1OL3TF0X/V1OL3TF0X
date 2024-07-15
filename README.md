@@ -15,25 +15,25 @@ My name is Mateusz, I'm a Web developer, looking to refine my expertise in every
 ![Skip link submenu](https://github.com/user-attachments/assets/028903db-5c55-47ef-a364-9623a0fc106b)
   - WordPress plugin integration alongside designing the architecture and interface for custom WP blocks for the marketing team.
 
-### Internal application for A4BEE - Bee Of the Month
+### Application for employee recognition
 
 - I was the lead frontend developer responsible for bringing the new design to life, using MUI and Recharts.js to make a novel, stunning app with Google Chat integration, OAuth 2.0 and an external API.
 - I worked in the Scrum framework, in a team of 7 developers. The app exceeded the expectations of the management.
 - I had the privilege of implementing some of the more complex parts of it's UI, wchich have me huge insights into the newest CSS features.
 
-### Internal app for A4BEE, responsible for delegations
+### App for managing employees delegations
 
 I was the lead developer responsible for architecting a full suite of E2E/integration tests, covering major functionalities of the app. I was responsible for:
 - RWD compliance for the app
 - Developing new functionality into the existing app, as well as support in case of law changes.
 - Integrating with other internal / external API's to ensure the best UX for users and the accounting team.
 
-### Event system for one of A4BEE's clients
+### Cross-browser Event sharing system
 
 I was one of the developers responsible for implementing a WebSocket event system for one of the apps, with the goal being all events being shared with other instances of said app in other cards, browser windows and even separate browser instances. The project used Web sockets,  [Broadcast API](https://developer.mozilla.org/en-US/docs/Web/API/Broadcast_Channel_API), [Cloud Events](https://cloudevents.io/) and 
 [Shared Workers](https://developer.mozilla.org/en-US/docs/Web/API/SharedWorker) to deliver the results at the highest of qualities.
 
-### OT management UI for one of A4BEE's clients
+### OT management UI
 
 A complex app composed of multiple microservices and microfrontends, written in Preact, as well as a complex event system. My task consisted of:
 - bugfixing and support
